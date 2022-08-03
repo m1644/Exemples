@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\bin\Debug\net6.0\Exemples001_HalloConsole.exe
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\bin\Debug\net6.0\Exemples001_HalloConsole.deps.json
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\bin\Debug\net6.0\Exemples001_HalloConsole.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\bin\Debug\net6.0\Exemples001_HalloConsole.dll
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\bin\Debug\net6.0\Exemples001_HalloConsole.pdb
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\Exemples001_HalloConsole.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\Exemples001_HalloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\Exemples001_HalloConsole.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\Exemples001_HalloConsole.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\Exemples001_HalloConsole.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\Exemples001_HalloConsole.dll
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\refint\Exemples001_HalloConsole.dll
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\Exemples001_HalloConsole.pdb
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\Exemples001_HalloConsole.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Exemples\Exemples001_HalloConsole\obj\Debug\net6.0\ref\Exemples001_HalloConsole.dll
